@@ -10,16 +10,14 @@
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LucasHenrique&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=LucasHCarvalho&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
  
 ### Main skills:
-![Salesforce](https://img.shields.io/badge/-Salesforce-0D1117?style=for-the-badge&logo=Salesforce&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
  
 ### Tools:
-![Notion](https://img.shields.io/badge/-Notion-0D1117?style=for-the-badge&logo=Notion&labelColor=0D1117)&nbsp;
 ![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white&labelColor=0D1117)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white&labelColor=0D1117)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=0D1117)&nbsp;
@@ -43,7 +41,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{FelipeJun}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{LucasHCarvalho}/count.svg" /></p> 
 <br></div>
 
 ### links:
