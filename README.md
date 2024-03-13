@@ -51,7 +51,7 @@
 ### links:
 <div align="center">  
 <a href="https://replit.com/@Lhcarvalho" target="_blank"><img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"</a>
-<a href="https://www.linkedin.com/in/lucas-henrique-de-carvalho-pinto/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/lucas-hcpinto" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div> 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0C3346,100:4C0D4C&height=120&section=footer"/>
